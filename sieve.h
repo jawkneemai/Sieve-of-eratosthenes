@@ -1,9 +1,3 @@
-// ITP 365 Fall 2015
-// HW1 - Sieve of Eratosthenes
-// Name: Johnathan Mai
-// Email: johnathm@usc.edu
-// Platform: Mac
-
 #pragma once
 #include "gwindow.h"
 
